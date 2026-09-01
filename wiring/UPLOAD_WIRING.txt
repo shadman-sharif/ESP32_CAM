@@ -1,0 +1,12 @@
+ESP32-CAM ↔ USB-TTL
+
+5V  -> 5V
+GND -> GND
+U0R/GPIO3 <- TX
+U0T/GPIO1 -> RX
+
+UPLOAD:
+GPIO0 -> GND
+Power/reset -> Upload
+After upload: REMOVE GPIO0 from GND
+Press RST

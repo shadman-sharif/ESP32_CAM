@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#f6f8fa"/>
+<rect x="100" y="90" width="430" height="500" rx="28" fill="#ffffff" stroke="#1f2937" stroke-width="4"/>
+<rect x="670" y="90" width="430" height="500" rx="28" fill="#ffffff" stroke="#1f2937" stroke-width="4"/>
+<text x="315" y="145" text-anchor="middle" font-family="Arial" font-size="32" font-weight="bold">ESP32-CAM</text>
+<text x="885" y="145" text-anchor="middle" font-family="Arial" font-size="32" font-weight="bold">USB-TTL / FTDI</text>
+<g font-family="Arial" font-size="25">
+<text x="150" y="230">5V</text><text x="150" y="310">GND</text><text x="150" y="390">U0R / GPIO3</text><text x="150" y="470">U0T / GPIO1</text><text x="150" y="550">GPIO0 → GND for upload</text>
+<text x="760" y="230">5V</text><text x="760" y="310">GND</text><text x="760" y="390">TX</text><text x="760" y="470">RX</text>
+</g>
+<g stroke="#374151" stroke-width="5" fill="none">
+<line x1="200" y1="220" x2="760" y2="220"/><line x1="200" y1="300" x2="760" y2="300"/>
+<line x1="270" y1="380" x2="760" y2="380"/><line x1="270" y1="460" x2="760" y2="460"/>
+</g>
+<text x="600" y="260" text-anchor="middle" font-family="Arial" font-size="22">Power</text>
+<text x="600" y="420" text-anchor="middle" font-family="Arial" font-size="22">TX/RX CROSS</text>
+<text x="600" y="650" text-anchor="middle" font-family="Arial" font-size="26" font-weight="bold">Remove GPIO0–GND after flashing, then press RST.</text>
+</svg>
