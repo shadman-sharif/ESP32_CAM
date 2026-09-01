@@ -449,15 +449,6 @@ git push origin feature/my-improvement
 
 Then open a Pull Request on GitHub.
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
-
-See [`LICENSE`](LICENSE) for details.
-
----
 
 ## ⭐ Final Idea
 
