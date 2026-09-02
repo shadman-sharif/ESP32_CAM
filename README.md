@@ -61,13 +61,13 @@ A compact board combining an **ESP32** (Wi-Fi + Bluetooth microcontroller), an *
 
 ### ESP32CAM Board
 
-<img src="images/nodemcu-board.jpg" 
+<img src="images/ESP32CAM Board" 
      alt="ESP32CAM Board" 
      width="500">
 
 ### ESP32CAM Pinout
 
-<img src="images/nodemcu-pinout.png" 
+<img src="images/ESP32CAM Pinout" 
      alt="ESP32CAM Pinout" 
      width="500">
 ---
