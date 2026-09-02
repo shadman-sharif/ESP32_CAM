@@ -80,8 +80,7 @@ A comparison that's genuinely hard to find in one place:
 ```text
 ESP32-CAM-Guide/
 ├── README.md
-├── LICENSE
-├── docs/
+├── esp32CAM file/
 │   ├── hardware.md         Board parts, variants, power (read this first)
 │   ├── software.md         Arduino IDE setup, correct Tools menu settings
 │   ├── GPIO.md             Pin map + which GPIOs are actually free to use
