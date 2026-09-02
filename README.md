@@ -61,15 +61,15 @@ A compact board combining an **ESP32** (Wi-Fi + Bluetooth microcontroller), an *
 
 ### ESP32CAM Board
 
-<img src="images/ESP32CAM Board" 
+<img src="images/ESP32CAM board.jpg" 
      alt="ESP32CAM Board" 
-     width="500">
+     width="800">
 
 ### ESP32CAM Pinout
 
-<img src="images/ESP32CAM Pinout" 
+<img src="images/ESP32CAM pinout.png" 
      alt="ESP32CAM Pinout" 
-     width="500">
+     width="800">
 ---
 
 ## ⚖️ ESP32-CAM vs. Alternatives
