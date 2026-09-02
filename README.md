@@ -28,7 +28,6 @@ A compact board combining an **ESP32** (Wi-Fi + Bluetooth microcontroller), an *
 ```text
 ESP32-CAM-Guide/
 ├── README.md
-├── LICENSE
 ├── docs/
 │   ├── hardware.md         Board parts, variants, power (read this first)
 │   ├── software.md         Arduino IDE setup, correct Tools menu settings
@@ -113,8 +112,3 @@ To upload: IO0 → GND → reset → upload → remove IO0 jumper → reset → 
 
 **Advanced:** deep-sleep battery-powered camera, lightweight on-device object detection, sending photos to an external AI server for analysis, full IoT camera system with notifications.
 
----
-
-## 📜 License
-
-MIT — see [`LICENSE`](LICENSE).
