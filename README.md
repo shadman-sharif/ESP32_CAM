@@ -56,6 +56,22 @@ A compact board combining an **ESP32** (Wi-Fi + Bluetooth microcontroller), an *
 
 ---
 
+
+## Hardware
+
+### ESP32CAM Board
+
+<img src="images/nodemcu-board.jpg" 
+     alt="ESP32CAM Board" 
+     width="500">
+
+### ESP32CAM Pinout
+
+<img src="images/nodemcu-pinout.png" 
+     alt="ESP32CAM Pinout" 
+     width="500">
+---
+
 ## ⚖️ ESP32-CAM vs. Alternatives
 
 A comparison that's genuinely hard to find in one place:
